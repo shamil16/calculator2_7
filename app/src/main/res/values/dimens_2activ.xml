@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="btn2activ_margin_Horizonttal">16dp</dimen>
+    <dimen name="btn2activ_margin_Top">16dp</dimen>
+    <dimen name="text_size_RESULT">40sp</dimen>
+
+</resources>
